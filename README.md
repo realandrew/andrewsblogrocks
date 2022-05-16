@@ -7,3 +7,5 @@ Currently I have my blog deployed via Cloudflare Pages. If anyone is using this 
 * To build, simply type Hugo and the built directory will be named `public`.
 * To run a local dev server type `hugo server` or with drafts enabled type `hugo server -D`.
 * To create a new post type `hugo new posts/post-name.md` from the terminal.
+
+This repository is licensed under the MIT license. Blog posts are also MIT licensed and I ask you attribution proper credit (along with the required MIT copyright & license notice).
