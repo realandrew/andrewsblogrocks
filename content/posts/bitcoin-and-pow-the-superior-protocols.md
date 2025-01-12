@@ -4,6 +4,8 @@ date: 2022-05-16T15:30:00-04:00
 draft: false
 ---
 
+1/12/25 Update: This article was written awhile ago. While I still agree with what I wrote I think it's not at a depth I'm happy with. If I have the time I would like to write a much more comprehensive, in-depth article with plenty of footnotes & citations arguing in favor of Bitcoin. If I ever find the time I might.
+
 First, let me start by saying I can't claim to be unbiased here. I'm a bit of a "Bitcoin maxi" (though I usually don't use that term).
 However, I've been following Bitcoin/cryptocurrencies since a whole bitcoin was only a few hundred US dollars (i.e. somewhere around 7 years now).
 I've done an immense amount of research through the years to support my opinions, which leads to my pro-Bitcoin bias.
