@@ -8,11 +8,11 @@ rtl = false
 title = "Andrew's Blog"
 # logo = "img/logo.jpg"
 # description = "My awesome website"
-copyright = "&copy; 2022 Andrew Mitchell"
+copyright = "&copy; 2025 Andrew Mitchell"
 
 dateFormat = "2 January 2006"
 
-[author]
+[params.author]
   name = "Andrew Mitchell"
   # image = "img/author.jpg"
   # headline = "I'm only human"
@@ -56,7 +56,7 @@ dateFormat = "2 January 2006"
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
-    { twitter = "https://twitter.com/realandrew" },
+    { twitter = "https://twitter.com/thatandrewm" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
   ]
